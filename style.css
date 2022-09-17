@@ -1,0 +1,43 @@
+#stylenome{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h3{
+    font-style: italic;
+}
+
+#quemsoueu{
+    font-family:sans-serif ;
+}
+
+#descricao{
+    font-style: italic;
+}
+
+.titulos{
+    font-family: sans-serif;
+}
+
+#primeiroul{
+    font-style: italic;
+}
+
+.links{
+    font-style: italic;
+}
+
+img{
+    border-radius: 50%;
+}
+
+body{
+    background-color: rgba(7, 5, 168, 0.308);
+}
+
+.tamanhotxt{
+    font-size: 21px;
+}
+
+.quemsoueu{
+    font-size: 19px;
+}
